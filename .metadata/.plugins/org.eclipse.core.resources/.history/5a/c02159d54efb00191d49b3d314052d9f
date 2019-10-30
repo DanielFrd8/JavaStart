@@ -1,0 +1,12 @@
+package runners;
+
+public class RightDigit {
+
+	public static void main(String[] args) {
+
+		int num;
+		
+		System.out.print(Enter a number of 4 digits: );
+	}
+
+}
