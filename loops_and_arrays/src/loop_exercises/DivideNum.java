@@ -12,7 +12,6 @@ public class DivideNum {
 				System.out.println(i);
 			}
 		}
-
 	}
 
 }
